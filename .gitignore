@@ -1,0 +1,22 @@
+Ignore the builds directory inside any monthly folder (e.g., october/builds/)
+
+*/builds/
+
+Fallback: Ignore any builds directory anywhere in the project
+
+/builds/
+
+Compiled C binaries / executables
+
+*.o
+*.obj
+*.exe
+*.out
+
+Common build output files
+
+*.dSYM/
+*.a
+*.la
+*.so
+*.dylib
