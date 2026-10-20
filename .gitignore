@@ -12,7 +12,7 @@ Compiled C binaries / executables
 *.obj
 *.exe
 *.out
-
+*.txt
 Common build output files
 
 *.dSYM/
