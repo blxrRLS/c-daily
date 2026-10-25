@@ -12,7 +12,10 @@ Compiled C binaries / executables
 *.obj
 *.exe
 *.out
-*.txt
+*.txt.
+
+Other stuff
+*.swp
 
 Common build output files
 
